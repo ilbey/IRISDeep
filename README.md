@@ -1,5 +1,5 @@
 # IRISDeep
-In this project you are required to implement an identity recognition system based on  convolutional neural networks (CNN), and to evaluate it with the provided dataset.
+In this project implemented an identity recognition system based on  convolutional neural networks (CNN), and evaluated it with the provided dataset.
 
 **1. Identity recognition based on iris biometric data** 
 
